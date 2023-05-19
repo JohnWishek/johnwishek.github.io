@@ -1,0 +1,19 @@
+h1 {
+    color:darkblue;
+    font-family:serif;
+    justify-content: flex-start;
+    font-size: 1.5em;
+}
+
+p {
+    text-align: center;
+    padding-top: 2em;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+h2 {
+    display: flex;
+    justify-content: flex-end;
+    
+}
